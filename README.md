@@ -1,4 +1,4 @@
-**# Student Management System (FastAPI)**
+# Student Management System (FastAPI)
 
 A FastAPI-based backend with JWT auth, role-based access, Redis caching, audit logging, and a simple frontend.
 
